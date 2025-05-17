@@ -1,5 +1,6 @@
 Project Overview
-The [HR Analytics Dashboard] Power BI project provides a comprehensive overview of workforce trends and human capital metrics. This dashboard is designed to support HR leaders and decision-makers in tracking employee engagement, performance, retention, and diversity metrics. By turning raw HR data into actionable insights, it enables data-driven workforce planning and organizational development.
+
+The [HR Analytics Dashboard](https://github.com/ChimaOkeke/HR-Analysis-Dashboard) Power BI project provides a comprehensive overview of workforce trends and human capital metrics. This dashboard is designed to support HR leaders and decision-makers in tracking employee engagement, performance, retention, and diversity metrics. By turning raw HR data into actionable insights, it enables data-driven workforce planning and organizational development.
 
 Key Features:
 
@@ -38,4 +39,5 @@ Operational Efficiency: Streamline reporting processes and enable real-time HR i
 Conclusion:
 The HR Analytics Dashboard is a strategic tool for transforming HR data into insight. From understanding attrition patterns to optimizing recruitment and workforce development, it helps HR leaders align people strategies with business goals.
 
+https://moderncomms678066-my.sharepoint.com/:u:/g/personal/chima_moderncomms678066_onmicrosoft_com/EWpvwReWA0FEgsG9-V9t-xUBQJR9pZ42DFfU3gu4pDPuBQ?e=zwzFoe
 ![Screenshot 2025-05-17 191935](https://github.com/user-attachments/assets/eebd1a08-2142-4230-b3e7-2ebfd9429be1)
